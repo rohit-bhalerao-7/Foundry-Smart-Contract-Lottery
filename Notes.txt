@@ -3,7 +3,9 @@ Notes from Smart Contract Lottery:
 Smart Contract isn't written in one go, write a component test it debug it
 Use the CEI design pattern: Checks, Effects, Interactions
 
-
+We use helper config to easily deploy on blockchain without worrying on how to deploy on that specific blockchain
+For eg: in Raffle.sol the constructor's parameters depends on which blockchain it is deployed
+ 
 
 
 
