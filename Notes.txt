@@ -1,0 +1,21 @@
+Notes from Smart Contract Lottery:
+
+Smart Contract isn't written in one go, write a component test it debug it
+Use the CEI design pattern: Checks, Effects, Interactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
